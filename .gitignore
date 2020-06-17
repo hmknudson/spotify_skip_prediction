@@ -1,0 +1,7 @@
+prelim/
+data/
+.ipynb_checkpoints/
+.vscode/
+dask-worker-space/
+catboost_info/
+.DS_Store
